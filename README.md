@@ -57,7 +57,7 @@ Click [here](notebook/final_assignment.ipynb) to explore the notebook.
 <a id='5'></a>
 ## Repository structure
 ```
-📦Applied_Data_Science_Assignment
+📦applied_data_science_assignment
  ┣ 📂attachments
  ┃ ┗ 📜University_of_Michigan_logo.png
  ┣ 📂build_gif
